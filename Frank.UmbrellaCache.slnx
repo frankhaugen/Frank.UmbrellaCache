@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Frank.UmbrellaCache.Abstractions/Frank.UmbrellaCache.Abstractions.csproj" />
+  <Project Path="Frank.UmbrellaCache.Server/Frank.UmbrellaCache.Server.csproj" />
+  <Project Path="Frank.UmbrellaCache/Frank.UmbrellaCache.csproj" />
+</Solution>
